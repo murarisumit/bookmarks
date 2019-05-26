@@ -1,7 +1,7 @@
 Below are my personal favorites list of few videos which I like and have learnt the most from.
 
 ### Electricity
-* AC MOTORS: [![AC MOTORS](https://www.youtube.com/watch?v=lV8iPKY-3ms)](https://www.youtube.com/watch?v=lV8iPKY-3ms)
+* AC MOTORS: [https://www.youtube.com/watch?v=lV8iPKY-3ms](https://www.youtube.com/watch?v=lV8iPKY-3ms)
 
 ### Watches
 * How a quartz watch works - its heart beats 32,768 times a second:  [https://www.youtube.com/watch?v=_2By2ane2I4](https://www.youtube.com/watch?v=_2By2ane2I4)
