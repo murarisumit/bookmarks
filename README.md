@@ -1,7 +1,10 @@
 Below are my personal favorites list of few videos which I like and have learnt the most from.
 
 ### Scalability: 
-* [https://github.com/binhnguyennus/awesome-scalability#scalability)(https://github.com/binhnguyennus/awesome-scalability#scalability)
+* [https://github.com/binhnguyennus/awesome-scalability)(https://github.com/binhnguyennus/awesome-scalability#scalability)
+
+### Kubernetes:
+* [https://github.com/hjacobs/kubernetes-failure-stories]https://github.com/hjacobs/kubernetes-failure-stories#kubernetes-failure-stories)
 
 ### Electricity
 * AC motors: [https://www.youtube.com/watch?v=lV8iPKY-3ms](https://www.youtube.com/watch?v=lV8iPKY-3ms)
