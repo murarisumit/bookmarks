@@ -1,5 +1,8 @@
 Below are my personal favorites list of few videos which I like and have learnt the most from.
 
+### Scalability: 
+* [https://github.com/binhnguyennus/awesome-scalability#scalability)(https://github.com/binhnguyennus/awesome-scalability#scalability)
+
 ### Electricity
 * AC motors: [https://www.youtube.com/watch?v=lV8iPKY-3ms](https://www.youtube.com/watch?v=lV8iPKY-3ms)
 
