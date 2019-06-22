@@ -17,6 +17,6 @@ Below are my personal favorites list of few videos which I like and have learnt 
 
 ### Food for thoughts
 
-* Survivor Bias: (https://www.youtube.com/watch?v=_Qd3erAPI9w&feature=youtu.be)[https://www.youtube.com/watch?v=_Qd3erAPI9w&feature=youtu.be]
+* Survivor Bias: [https://www.youtube.com/watch?v=_Qd3erAPI9w&feature=youtu.be](https://www.youtube.com/watch?v=_Qd3erAPI9w&feature=youtu.be)
 
 
