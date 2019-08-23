@@ -19,7 +19,6 @@ Below are my personal favorites list of few videos which I like and have learnt 
 * Visualising gravitational waves - [https://www.youtube.com/watch?v=dw7U3BYMs4U&feature=youtu.be](https://www.youtube.com/watch?v=dw7U3BYMs4U&feature=youtu.be)
 
 ### Food for thoughts
-
 * Survivor Bias: [https://www.youtube.com/watch?v=_Qd3erAPI9w&feature=youtu.be](https://www.youtube.com/watch?v=_Qd3erAPI9w&feature=youtu.be)
 
 
