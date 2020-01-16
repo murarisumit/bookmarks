@@ -7,6 +7,9 @@ Below are my personal favorites list of few videos which I like and have learnt 
 ### Kubernetes:
 * [https://github.com/hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories#kubernetes-failure-stories)
 
+### Security:
+* [security-architecture-anti-patterns.pdf](pdfs/tech-security/security-architecture-anti-patterns.pdf)
+
 ### Electricity
 * AC motors: [https://www.youtube.com/watch?v=lV8iPKY-3ms](https://www.youtube.com/watch?v=lV8iPKY-3ms)
 * Capacitors: [https://www.youtube.com/watch?v=X4EUwTwZ110](https://www.youtube.com/watch?v=X4EUwTwZ110)
