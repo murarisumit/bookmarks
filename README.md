@@ -31,4 +31,4 @@ Below are my personal favorites list of few videos which I like and have learnt 
 
 ### Tech
 #### Bash
-* Bash completion: Web-archive-link[https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
+* Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial) (Web-archive-link) 
