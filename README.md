@@ -1,6 +1,6 @@
 Below are my personal favorites list of few videos which I like and have learnt the most from.
 
-> I have kept links are shown of original author post but href goes to https://archive.org/ pages
+> Here links are shown of original author post but href goes to https://archive.org/ pages.
 
 ### Scalability: 
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
