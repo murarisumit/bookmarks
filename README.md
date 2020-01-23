@@ -1,5 +1,7 @@
 Below are my personal favorites list of few videos which I like and have learnt the most from.
 
+> I have kept links are shown of original author post but href goes to https://archive.org/ pages
+
 ### Scalability: 
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
   * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
@@ -31,4 +33,5 @@ Below are my personal favorites list of few videos which I like and have learnt 
 
 ### Tech
 #### Bash
-* Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial) (Web-archive-link) 
+* Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial) (Web-archive-link)
+* Dedup lines via bash preserving order: [https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux](https://web.archive.org/web/20200123025830/https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux)
