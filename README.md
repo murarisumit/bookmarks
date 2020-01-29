@@ -32,7 +32,7 @@ Below are my personal favorites list of few videos which I like and have learnt 
 * Why is glass transparent? - Mark Miodownik: [https://www.youtube.com/watch?v=VwRLIt6jgdM](https://www.youtube.com/watch?v=VwRLIt6jgdM)
 
 ### Yet to categorize:
-* http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html(https://web.archive.org/web/20200114171213/http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+* [http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html](https://web.archive.org/web/20200114171213/http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 
 ### Tech:
 
