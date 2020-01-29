@@ -31,6 +31,9 @@ Below are my personal favorites list of few videos which I like and have learnt 
 ### Curiosity
 * Why is glass transparent? - Mark Miodownik: [https://www.youtube.com/watch?v=VwRLIt6jgdM](https://www.youtube.com/watch?v=VwRLIt6jgdM)
 
+### Yet to categorize
+* http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html(https://web.archive.org/web/20200114171213/http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
+
 ### Tech
 #### Bash
 * Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
