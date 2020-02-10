@@ -11,6 +11,7 @@ Below are my personal favorites list of few videos which I like and have learnt 
 
 ### Security:
 * [security-architecture-anti-patterns.pdf](pdfs/tech-security/security-architecture-anti-patterns.pdf)
+* SAML vs OpenID vs OAuth: [https://www.softwaresecured.com/federated-identities-openid-vs-saml-vs-oauth/](https://web.archive.org/web/20190902003754/https://www.softwaresecured.com/federated-identities-openid-vs-saml-vs-oauth/)
 
 ### Electricity:
 * AC motors: [https://www.youtube.com/watch?v=lV8iPKY-3ms](https://www.youtube.com/watch?v=lV8iPKY-3ms)
