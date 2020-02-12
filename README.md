@@ -35,12 +35,12 @@ Below are my personal favorites list of few videos which I like and have learnt 
 ### Yet to categorize:
 * [http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html](https://web.archive.org/web/20200114171213/http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 
-### Systems:
+### Python
+* [http://pythontutor.com/visualize.html#mode=edit](http://pythontutor.com/visualize.html#mode=edit)
 
-#### Bash:
+### Bash:
 * Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
 * Dedup lines via bash preserving order: [https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux](https://web.archive.org/web/20200123025830/https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux)
 
-
-#### Misc.
+### Linux
 * Linux Load Averages: Solving the Mystery [http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html](https://web.archive.org/web/20200203064306/http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
