@@ -5,9 +5,15 @@ Below are my personal favorites list of few videos which I like and have learnt 
 ---
 **Instead of organizing by topic and subtopic, it is much more effective to organize by context. Specifically, the context in which it will be used. The primary question when deciding where to put something becomes "In which context will I want to stumble upon this again?"**
 >  Priciple #8 of Luhmann’s slip-box: [https://praxis.fortelabs.co/how-to-take-smart-notes/](https://web.archive.org/web/20200204210404/https://praxis.fortelabs.co/how-to-take-smart-notes/)
-
-### WIP..
 ---
+
+### Personal Links: 
+* Home Page: [https://www.yinyangi.in/](https://www.yinyangi.in/)
+* Favorite refs: [https://www.yinyangi.in/personal-fav-links](https://www.yinyangi.in/personal-fav-links)
+* Bookmarks: [https://www.yinyangi.in/bookmarks](https://www.yinyangi.in/bookmarks)
+* Failed business stories: [https://www.yinyangi.in/failed-business-stories](https://www.yinyangi.in/failed-business-stories)
+* Language notes: [https://www.yinyangi.in/learning-languages/](https://www.yinyangi.in/learning-languages/) 
+
 
 ### Scalability: 
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
