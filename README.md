@@ -1,6 +1,4 @@
-Below are my personal favorites list of few videos which I like and have learnt the most from.
-
-> Here links are shown of original author post but href goes to https://archive.org/ pages.
+__Here links are shown of original author post but href goes to https://archive.org/ pages.__
 
 ---
 
