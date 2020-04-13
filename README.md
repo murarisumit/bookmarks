@@ -9,7 +9,6 @@ Below are my personal favorites list of few videos which I like and have learnt 
 
 ### Personal Links: 
 * Home Page: [https://www.yinyangi.in/](https://www.yinyangi.in/)
-* Favorite refs: [https://www.yinyangi.in/personal-fav-links](https://www.yinyangi.in/personal-fav-links)
 * Bookmarks: [https://www.yinyangi.in/bookmarks](https://www.yinyangi.in/bookmarks)
 * Failed business stories: [https://www.yinyangi.in/failed-business-stories](https://www.yinyangi.in/failed-business-stories)
 * Language notes: [https://www.yinyangi.in/learning-languages/](https://www.yinyangi.in/learning-languages/) 
