@@ -3,8 +3,10 @@ Below are my personal favorites list of few videos which I like and have learnt 
 > Here links are shown of original author post but href goes to https://archive.org/ pages.
 
 ---
+
 **Instead of organizing by topic and subtopic, it is much more effective to organize by context. Specifically, the context in which it will be used. The primary question when deciding where to put something becomes "In which context will I want to stumble upon this again?"**
 >  Priciple #8 of Luhmann’s slip-box: [https://praxis.fortelabs.co/how-to-take-smart-notes/](https://web.archive.org/web/20200204210404/https://praxis.fortelabs.co/how-to-take-smart-notes/)
+
 ---
 
 ### Personal Links: 
