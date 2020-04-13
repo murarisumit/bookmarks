@@ -1,4 +1,4 @@
-__Here links are shown of original author post but href goes to https://archive.org/ pages.__
+Here links are shown of original author post but most links will take you to https://archive.org/ pages.
 
 ---
 
