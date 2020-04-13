@@ -17,7 +17,7 @@ Below are my personal favorites list of few videos which I like and have learnt 
 
 ### Scalability: 
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
-  * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8)
+  * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://web.archive.org/web/20200227035741/https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8?gi=7aaf5c5b85f)
 
 ### Failure Stories:
 * Kubernetes: [https://github.com/hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories#kubernetes-failure-stories)
