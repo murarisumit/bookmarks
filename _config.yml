@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Personal bookmarks
+markdown: kramdown
 github:
   is_project_page: true
