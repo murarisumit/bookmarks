@@ -11,11 +11,10 @@ The primary question when deciding where to put something becomes "In which cont
 ---
 
 ### Personal Links: 
-* Home Page: [https://www.yinyangi.in/](https://www.yinyangi.in/)
-* Home Page Link test: https://www.yinyangi.in/
-* Bookmarks: [https://www.yinyangi.in/bookmarks](https://www.yinyangi.in/bookmarks)
-* Failed business stories: [https://www.yinyangi.in/failed-business-stories](https://www.yinyangi.in/failed-business-stories)
-* Language notes: [https://www.yinyangi.in/learning-languages/](https://www.yinyangi.in/learning-languages/) 
+* Home Page: https://www.yinyangi.in
+* Bookmarks: https://www.yinyangi.in/bookmarks
+* Failed business stories: https://www.yinyangi.in/failed-business-stories
+* Language notes: https://www.yinyangi.in/learning-languages
 
 
 ### Scalability: 
