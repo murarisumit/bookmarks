@@ -16,6 +16,7 @@ The primary question when deciding where to put something becomes "In which cont
 * Failed business stories: https://www.yinyangi.in/failed-business-stories
 * Language notes: https://www.yinyangi.in/learning-languages
 * TILs collection: https://www.yinyangi.in/til
+* WIP: New blog url: https://www.yinayangi.in/blog
 
 
 ### Scalability: 
