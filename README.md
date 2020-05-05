@@ -19,6 +19,9 @@ The primary question when deciding where to put something becomes "In which cont
 * WIP: New blog url: https://www.yinayangi.in/blog
 
 
+### Awesome List
+* https://github.com/ramitsurana/awesome-kubernetes
+
 ### Scalability: 
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
   * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://web.archive.org/web/20200227035741/https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8?gi=7aaf5c5b85f)
