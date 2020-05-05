@@ -20,7 +20,8 @@ The primary question when deciding where to put something becomes "In which cont
 
 
 ### Awesome List
-* https://github.com/ramitsurana/awesome-kubernetes
+* Kubernetes: https://github.com/ramitsurana/awesome-kubernetes
+
 
 ### Scalability: 
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
@@ -62,6 +63,8 @@ The primary question when deciding where to put something becomes "In which cont
 * Dedup lines via bash preserving order: [https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux](https://web.archive.org/web/20200123025830/https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux)
 
 ### Cheatsheets
+#### Web attacks: 
+* https://github.com/riramar/Web-Attack-Cheat-Sheet
 #### Spanish
 * Spanish 101: [Spanish_Student_Cheatsheet.pdf](pdfs/language/cheatsheets/Spanish_Student_Cheatsheet.pdf)
 
