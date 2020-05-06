@@ -21,6 +21,7 @@ The primary question when deciding where to put something becomes "In which cont
 
 ### Awesome List
 * Kubernetes: https://github.com/ramitsurana/awesome-kubernetes
+* Docker compose: https://github.com/docker/awesome-compose
 
 
 ### Scalability: 
