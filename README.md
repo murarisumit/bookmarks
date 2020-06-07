@@ -58,6 +58,7 @@ The primary question when deciding where to put something becomes "In which cont
 ### Tutorials:
 * Python tutorial: [http://pythontutor.com/visualize.html#mode=edit](http://pythontutor.com/visualize.html#mode=edit)
 * Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
+* Learn go with tests: https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 
 
 ### Cli-snippets
