@@ -44,7 +44,7 @@ The primary question when deciding where to put something becomes "In which cont
 ### Software-architecture:
 * Federation is the Worst of all Worlds : https://web.archive.org/web/20190409002001/https://fieldnotes.resistant.tech/federation-is-the-worst-of-all-worlds/
 * Understanding the bin, sbin, usr/bin , usr/sbin split: https://web.archive.org/web/20200602014244/http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
-* [security-architecture-anti-patterns.pdf](pdfs/tech-security/security-architecture-anti-patterns.pdf)
+* [Security-architecture-anti-patterns.pdf](pdfs/tech-security/security-architecture-anti-patterns.pdf)
 * [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
   * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://web.archive.org/web/20200227035741/https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8?gi=7aaf5c5b85f)
 
