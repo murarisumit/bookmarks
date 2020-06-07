@@ -11,7 +11,6 @@ The primary question when deciding where to put something becomes "In which cont
 ---
 
 
-
 ### Personal Links: 
 * Home Page: https://www.yinyangi.in
 * Bookmarks: https://www.yinyangi.in/bookmarks
@@ -74,6 +73,8 @@ The primary question when deciding where to put something becomes "In which cont
 * Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
 * Golang with tests: https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 
+## \*nix systems:
+* Understanding the bin, sbin, usr/bin , usr/sbin split: https://web.archive.org/web/20200602014244/http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
 
 
 
