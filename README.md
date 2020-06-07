@@ -34,13 +34,23 @@ The primary question when deciding where to put something becomes "In which cont
 ### Cheatsheets
 #### Web attacks: 
 * https://github.com/riramar/Web-Attack-Cheat-Sheet
-#### Spanish
+#### Languages:
 * Spanish 101: [Spanish_Student_Cheatsheet.pdf](pdfs/language/cheatsheets/Spanish_Student_Cheatsheet.pdf)
 
 
-### Cli-snippets
+### Snippets
 * Dedup lines via bash preserving order: [https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux](https://web.archive.org/web/20200123025830/https://iridakos.com/programming/2019/05/16/remove-duplicate-lines-preserving-order-linux)
 
+### Software-architecture:
+* Federation is the Worst of all Worlds : https://web.archive.org/web/20190409002001/https://fieldnotes.resistant.tech/federation-is-the-worst-of-all-worlds/
+* Understanding the bin, sbin, usr/bin , usr/sbin split: https://web.archive.org/web/20200602014244/http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
+* [security-architecture-anti-patterns.pdf](pdfs/tech-security/security-architecture-anti-patterns.pdf)
+* [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
+  * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://web.archive.org/web/20200227035741/https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8?gi=7aaf5c5b85f)
+
+
+### Identity and Access Management:
+* SAML vs OpenID vs OAuth: [https://www.softwaresecured.com/federated-identities-openid-vs-saml-vs-oauth/](https://web.archive.org/web/20190902003754/https://www.softwaresecured.com/federated-identities-openid-vs-saml-vs-oauth/)
 
 ### Failure Stories:
 * Kubernetes: [https://github.com/hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories#kubernetes-failure-stories)
@@ -60,21 +70,10 @@ The primary question when deciding where to put something becomes "In which cont
 ### Notes
 * Luhmann’s slip-box: [https://praxis.fortelabs.co/how-to-take-smart-notes/](https://web.archive.org/web/20200204210404/https://praxis.fortelabs.co/how-to-take-smart-notes/)
 
-### Scalability: 
-* [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability#scalability)
-  * [https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8](https://web.archive.org/web/20200227035741/https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8?gi=7aaf5c5b85f)
-
-### Security:
-* [security-architecture-anti-patterns.pdf](pdfs/tech-security/security-architecture-anti-patterns.pdf)
-* SAML vs OpenID vs OAuth: [https://www.softwaresecured.com/federated-identities-openid-vs-saml-vs-oauth/](https://web.archive.org/web/20190902003754/https://www.softwaresecured.com/federated-identities-openid-vs-saml-vs-oauth/)
-
 ### Tutorials:
 * Python tutorial: [http://pythontutor.com/visualize.html#mode=edit](http://pythontutor.com/visualize.html#mode=edit)
 * Bash completion: [https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial](https://web.archive.org/save/https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial)
 * Golang with tests: https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
-
-## \*nix systems:
-* Understanding the bin, sbin, usr/bin , usr/sbin split: https://web.archive.org/web/20200602014244/http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
 
 
 
