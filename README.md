@@ -16,8 +16,7 @@ The primary question when deciding where to put something becomes "In which cont
 * Bookmarks: https://www.yinagi.in/bookmarks
 * Failed business stories: https://www.yinagi.in/failed-business-stories
 * Language notes: https://www.yinagi.in/learning-languages
-* TILs collection: https://www.yinagi.in/til
-* Knowledge base: https://www.yinagi.in/kbs
+* TILs & KB collection: https://www.yinagi.in/kbs
 
 ### ArtWork
 * If moon was only 1 Pixel: [http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html](https://web.archive.org/web/20200114171213/http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
