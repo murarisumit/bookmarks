@@ -12,12 +12,12 @@ The primary question when deciding where to put something becomes "In which cont
 
 
 ### Personal Links: 
-* Home Page: https://www.yinyangi.in
-* Bookmarks: https://www.yinyangi.in/bookmarks
-* Failed business stories: https://www.yinyangi.in/failed-business-stories
-* Language notes: https://www.yinyangi.in/learning-languages
-* TILs collection: https://www.yinyangi.in/til
-* Knowledge base: https://www.yinayangi.in/kbs
+* Home Page: https://www.yinagi.in
+* Bookmarks: https://www.yinagi.in/bookmarks
+* Failed business stories: https://www.yinagi.in/failed-business-stories
+* Language notes: https://www.yinagi.in/learning-languages
+* TILs collection: https://www.yinagi.in/til
+* Knowledge base: https://www.yinagi.in/kbs
 
 ### ArtWork
 * If moon was only 1 Pixel: [http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html](https://web.archive.org/web/20200114171213/http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
@@ -28,7 +28,7 @@ The primary question when deciding where to put something becomes "In which cont
 * Docker compose: https://github.com/docker/awesome-compose
 
 ### Best practices
-* EKS best practices: https://www.yinyangi.in/kbs/bookmarks/eks-best-practices/
+* EKS best practices: https://www.yinagi.in/kbs/bookmarks/eks-best-practices/
 
 
 ### Cheatsheets
